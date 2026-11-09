@@ -1,0 +1,6 @@
+{
+  "name": "AI Factory",
+  "description": "Independent hackathon project generator powered by on-device local AI models with zero API dependencies, creating complete downloadable ZIP codebases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
